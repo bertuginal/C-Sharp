@@ -1,0 +1,6 @@
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Constructor\Constructor\obj\Debug\Constructor.pdb
