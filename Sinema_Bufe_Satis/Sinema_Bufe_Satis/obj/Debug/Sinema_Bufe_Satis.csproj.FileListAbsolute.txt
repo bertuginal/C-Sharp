@@ -1,0 +1,10 @@
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Sinema_Bufe_Satis\Sinema_Bufe_Satis\bin\Debug\Sinema_Bufe_Satis.exe.config
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Sinema_Bufe_Satis\Sinema_Bufe_Satis\bin\Debug\Sinema_Bufe_Satis.exe
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Sinema_Bufe_Satis\Sinema_Bufe_Satis\bin\Debug\Sinema_Bufe_Satis.pdb
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.csprojAssemblyReference.cache
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.Form1.resources
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.Properties.Resources.resources
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.csproj.GenerateResource.cache
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.csproj.CoreCompileInputs.cache
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.exe
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.pdb
