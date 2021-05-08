@@ -1,0 +1,6 @@
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Ornek_Console2\Ornek_Console2\bin\Debug\Ornek_Console2.exe.config
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Ornek_Console2\Ornek_Console2\bin\Debug\Ornek_Console2.exe
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Ornek_Console2\Ornek_Console2\bin\Debug\Ornek_Console2.pdb
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Ornek_Console2\Ornek_Console2\obj\Debug\Ornek_Console2.csproj.CoreCompileInputs.cache
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Ornek_Console2\Ornek_Console2\obj\Debug\Ornek_Console2.exe
+C:\Users\bertu\OneDrive\Belgeler\Visual Studio 2017\Projelerim\Ornek_Console2\Ornek_Console2\obj\Debug\Ornek_Console2.pdb
